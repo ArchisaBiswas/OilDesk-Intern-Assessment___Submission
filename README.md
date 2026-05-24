@@ -48,3 +48,5 @@ Managed via `pyproject.toml` and pinned in `uv.lock`:
 ---
 
 ## Thank You
+
+---
